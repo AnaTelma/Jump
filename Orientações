@@ -1,0 +1,6 @@
+Nesse script(em anexo) foi nadicionado o movimento do pulo para o personagem.
+O Player em inspector -> Gravity Scale -> 2
+                      -> Collision Detection -> Continuous
+O Floor em inspector -> TAG -> adiciona nova tag -> floor 
+e depois retorna em TAG do Floor e coloca a tag floor
+Com script completo e só adicionar ao Player.
